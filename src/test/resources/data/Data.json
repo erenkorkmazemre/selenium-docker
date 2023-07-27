@@ -1,0 +1,27 @@
+{
+  "SERVICES": {
+    "service1": "Service",
+    "service2": "foodService",
+    "service3": "moreService",
+    "service4": "waterService"
+  },
+  "CATEGORIES": {
+    "newProducts": "New Products",
+    "beverages": "Beverages",
+    "fruits": "Fruits & Veg",
+    "bakedGoods": "Baked Goods",
+    "food": "Food",
+    "snacks": "Snacks",
+    "iceCream": "Ice Cream",
+    "milkDairy": "Milk & Dairy",
+    "breakFast": "Breakfast",
+    "readyToEat": "Ready to Eat",
+    "fitForm": "Fit & Form",
+    "personalCare": "Personal Care",
+    "homeCare": "Home Care",
+    "homeLiving": "Home & Living",
+    "tech": "Tech",
+    "petFood": "Pet Food",
+    "babyCare": "Baby Care"
+  }
+}
